@@ -1,6 +1,6 @@
 
 
-nombre = 'pepe'
+nombre = 'pepe el gallo'
 apellido = 'vargas'
 
 
