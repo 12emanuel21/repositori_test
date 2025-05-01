@@ -1,7 +1,7 @@
 
 
-nombre = 'ricardo'
-apellido = 'vargas'
+nombre = 'claudia'
+apellido = 'villarreal'
 
 
 
